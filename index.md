@@ -229,7 +229,7 @@
                     document.getElementById('hhInput').value = document.getElementById('hhInput').value.replace("Hero(", "Hero (")
                 }
 
-                document.getElementById('hhInput').value = document.getElementById('hhInput').value.concat("\n\nConvert your hand history at <http://sirtom1248.github.io/>");
+                document.getElementById('hhInput').value = document.getElementById('hhInput').value.concat("\n\nConvert your hand history at <https://sirtom1248.github.io/>");
             }
 
             hhErrorCheck();
