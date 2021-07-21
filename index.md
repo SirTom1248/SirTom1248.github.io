@@ -230,7 +230,7 @@
                     document.getElementById('hhInput').value = document.getElementById('hhInput').value.replace("Hero(", "Hero (")
                 }
 
-                document.getElementById('hhInput').value = document.getElementById('hhInput').value.concat("\n\nConvert your hand history at <https://www.betstrat.com/hh-converter>");
+                document.getElementById('hhInput').value = document.getElementById('hhInput').value.concat("\n\nConvert your hand history at <http://sirtom1248.github.io/>");
             }
 
             hhErrorCheck();
