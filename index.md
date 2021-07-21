@@ -1,6 +1,5 @@
 
 
-<!DOCTYPE html>
 <html>
 <!--Copyright, Christopher Wathen, 2020, All Rights Reserved-->
 
